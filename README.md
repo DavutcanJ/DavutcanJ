@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a third-year computer engineering student <br>who is passionate about programming and developing new <br>technologies.I am constantly learning and improving my skills through<br> various projects and challenges. As an newly-active GitHub user,<br> I want to contribute to open source projects and collaborate with <br>other developers to create innovative solutions.My areas of interest<br> include machine learning,artifical intelligence,data science,web development, software engineering and game <br>development. I am also enthusiastic about participating in <br>hackathons and coding competitions to put my skills to the test and <br>learn from others. 
+Hello, I am a fourth-year computer engineering student <br>who is passionate about programming and developing new <br>technologies.I am constantly learning and improving my skills through<br> various projects and challenges. As an newly-active GitHub user,<br> I want to contribute to open source projects and collaborate with <br>other developers to create innovative solutions.My areas of interest<br> include machine learning,artifical intelligence,data science,web development, software engineering and game <br>development. I am also enthusiastic about participating in <br>hackathons and coding competitions to put my skills to the test and <br>learn from others. 
 
 
 ## 🌐 Socials:
